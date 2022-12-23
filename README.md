@@ -50,17 +50,17 @@ HTML (HyperText Markup Language) es un lenguaje de marcas utilizado para estruct
 
 ### Etiquetas más comunes: 
 
-``<html>``: Esta etiqueta indica el inicio y el fin del documento HTML. Todas las demás etiquetas deben ir dentro de esta etiqueta. Atributos comunes: lang (para especificar el idioma del documento) y dir (para especificar la dirección del texto, izquierda a derecha o derecha a izquierda).
+``<html>``: Esta etiqueta indica el inicio y el fin del documento HTML. Todas las demás etiquetas deben ir dentro de esta etiqueta.
 
-``<head>``: Esta etiqueta contiene información sobre el documento, como el título, los estilos y los scripts. No se muestra en la página web, sino que es utilizada por los navegadores y otros programas para entender el contenido del documento. Atributos comunes: title (para especificar el título del documento) y charset (para especificar la codificación de caracteres).
+``<head>``: Esta etiqueta contiene información sobre el documento, como el título, los estilos y los scripts. No se muestra en la página web, sino que es utilizada por los navegadores y otros programas para entender el contenido del documento. Atributos comunes: title (para especificar el título del documento).
 
-``<body>``: Esta etiqueta contiene todo el contenido visible de la página web. Atributos comunes: bgcolor (para especificar el color de fondo de la página) y text (para especificar el color del texto).
+``<body>``: Esta etiqueta contiene todo el contenido visible de la página web.
 
-``<h1>-<h6>``: Estas etiquetas indican el título o encabezado de una sección de contenido. La etiqueta ``<h1>`` es el encabezado más importante y la etiqueta ``<h6>`` es el menos importante. Atributos comunes: align (para alinear el texto) y class (para aplicar estilos CSS a la etiqueta).
+``<h1>-<h6>``: Estas etiquetas indican el título o encabezado de una sección de contenido. La etiqueta ``<h1>`` es el encabezado más grande y la etiqueta ``<h6>`` es el mas pequeño. Atributos comunes: align (para alinear el texto) y class (para aplicar estilos CSS a la etiqueta).
 
 ``<p>``: Esta etiqueta indica un párrafo de texto. Atributos comunes: align (para alinear el texto) y class (para aplicar estilos CSS a la etiqueta).
 
-``<a>``: Esta etiqueta crea un enlace a otra página o a una sección específica de la misma página. Atributos comunes: href (para especificar la dirección del enlace) y target (para abrir el enlace en una nueva ventana o pestaña).
+``<a>``: Esta etiqueta crea un enlace a otra página o a una sección específica de la misma página. Atributos comunes: href (para especificar la dirección del enlace).
 
 ``<img>``: Esta etiqueta permite insertar imágenes en la página web. Atributos comunes: src (para especificar la dirección de la imagen) y alt (para proporcionar una descripción de la imagen).
 
