@@ -79,3 +79,10 @@ HTML (HyperText Markup Language) es un lenguaje de marcas utilizado para estruct
 Es importante tener en cuenta que todas las etiquetas deben tener una etiqueta de cierre correspondiente, con el símbolo '/' antes del nombre de la etiqueta. Por ejemplo, la etiqueta de cierre para un párrafo es ``</p>``.
 
 ![html](html.jpg)
+
+## Markdown
+
+Markdown es un lenguaje de marcas ligero que se utiliza para dar formato a documentos de texto. A diferencia de otros lenguajes de marcas, como HTML, que utilizan etiquetas para dar formato al texto, Markdown utiliza símbolos especiales para indicar qué texto debe mostrarse de una determinada manera. Esto hace que Markdown sea muy sencillo de escribir y leer, ya que no requiere conocimientos previos de otro lenguaje de programación.
+
+### Comandos mas comunes:
+
