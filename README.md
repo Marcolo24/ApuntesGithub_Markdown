@@ -42,7 +42,7 @@ En Visual Studio, puedes utilizar Git y GitHub para colaborar en proyectos de so
 
 HTML (HyperText Markup Language) es un lenguaje de marcas utilizado para estructurar y dar formato a contenido en la World Wide Web. Las etiquetas son elementos clave en HTML que se utilizan para envolver y dar formato a contenido de la página web.
 
-Aquí hay algunas etiquetas básicas de HTML y una breve explicación de cómo se utilizan:
+### Etiquetas más comunes: 
 
 ``<html>``: Esta etiqueta indica el inicio y el fin del documento HTML. Todas las demás etiquetas deben ir dentro de esta etiqueta. Atributos comunes: lang (para especificar el idioma del documento) y dir (para especificar la dirección del texto, izquierda a derecha o derecha a izquierda).
 
