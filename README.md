@@ -42,6 +42,8 @@ En Visual Studio, puedes utilizar Git y GitHub para colaborar en proyectos de so
 
 - Puedes utilizar Visual Studio para crear y publicar tu proyecto en GitHub. Esto te permite compartir tu proyecto con la comunidad y recibir contribuciones de otros desarrolladores.
 
+![visua](visual.png)
+
 ## HTML
 
 HTML (HyperText Markup Language) es un lenguaje de marcas utilizado para estructurar y dar formato a contenido en la World Wide Web. Las etiquetas son elementos clave en HTML que se utilizan para envolver y dar formato a contenido de la página web.
