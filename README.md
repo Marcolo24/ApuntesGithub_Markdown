@@ -1,5 +1,7 @@
 # ApuntesGithub_Markdown
 
+## Instalación de GIT
+
 Para instalar Git en tu equipo local, necesitarás seguir los siguientes pasos:
 
 Descargar Git: la primera cosa que debes hacer es ir al sitio web oficial de Git (https://git-scm.com/downloads) y descargar la última versión de Git. Una vez que hayas descargado el instalador, podrás proceder a la siguiente etapa.
