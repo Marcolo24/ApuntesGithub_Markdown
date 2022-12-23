@@ -1,5 +1,13 @@
 # ApuntesGithub_Markdown
 
+Para instalar Git en tu equipo local, necesitarás seguir los siguientes pasos:
+
+Descargar Git: la primera cosa que debes hacer es ir al sitio web oficial de Git (https://git-scm.com/downloads) y descargar la última versión de Git. Una vez que hayas descargado el instalador, podrás proceder a la siguiente etapa.
+
+Instalar Git en tu equipo: una vez que tengas el instalador descargado, debes ejecutarlo y seguir las instrucciones del instalador para completar la instalación. Esto puede variar un poco dependiendo del sistema operativo que estés utilizando, pero en general debería ser bastante sencillo.
+
+Configurar Git (opcional): si quieres, puedes configurar algunas opciones de Git para personalizar tu experiencia. Para hacer esto, necesitarás abrir una terminal o símbolo del sistema y escribir los siguientes comandos:
+
 HTML (HyperText Markup Language) es un lenguaje de marcado utilizado para estructurar y dar formato a contenido en la World Wide Web. Las etiquetas son elementos clave en HTML que se utilizan para envolver y dar formato a contenido de la página web.
 
 Aquí hay algunas etiquetas básicas de HTML y una breve explicación de cómo se utilizan:
