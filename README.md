@@ -30,7 +30,7 @@ Estos comandos configurarán tu nombre de usuario y correo electrónico en Git, 
 
 GitHub es una plataforma en línea que se basa en Git y se utiliza para almacenar, gestionar y colaborar en proyectos de software. Ofrece una amplia variedad de herramientas y funcionalidades para facilitar el trabajo en equipo y hacer seguimiento del progreso del proyecto. También es una plataforma popular para compartir proyectos de software con la comunidad y encontrar proyectos interesantes y útiles.
 
-![github](github.png) 
+![github](github.jpeg) 
 
 ## Visual Studio
 
@@ -75,3 +75,5 @@ HTML (HyperText Markup Language) es un lenguaje de marcas utilizado para estruct
 ``<u>``: Esta etiqueta indica que el texto encerrado en ella debe mostrarse subrayado. Atributos comunes: class (para aplicar estilos CSS a la etiqueta) y id (para identificar de manera única la etiqueta).
 
 Es importante tener en cuenta que todas las etiquetas deben tener una etiqueta de cierre correspondiente, con el símbolo '/' antes del nombre de la etiqueta. Por ejemplo, la etiqueta de cierre para un párrafo es ``</p>``.
+
+![html](html.jpg)
