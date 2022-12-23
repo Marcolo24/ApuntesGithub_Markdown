@@ -24,6 +24,8 @@ Estos comandos configurarán tu nombre de usuario y correo electrónico en Git, 
 
 4. Verificar la instalación de Git: para asegurarte de que Git se ha instalado correctamente en tu equipo, puedes abrir una terminal o símbolo del sistema y escribir el comando ``git --version``. Si Git está instalado correctamente, se mostrará la versión de Git instalada en tu equipo.
 
+![imagen](.) 
+
 ## GitHub
 
 GitHub es una plataforma en línea que se basa en Git y se utiliza para almacenar, gestionar y colaborar en proyectos de software. Ofrece una amplia variedad de herramientas y funcionalidades para facilitar el trabajo en equipo y hacer seguimiento del progreso del proyecto. También es una plataforma popular para compartir proyectos de software con la comunidad y encontrar proyectos interesantes y útiles.
