@@ -86,3 +86,24 @@ Markdown es un lenguaje de marcas ligero que se utiliza para dar formato a docum
 
 ### Comandos mas comunes:
 
+* Encabezados: se pueden crear encabezados utilizando almohadillas (#). Cuantas más almohadillas utilicemos, más pequeño será el encabezado hasta un máximo de 6 almohadillas.
+
+* Negrita: para poner en negrita un texto, basta con encerrarlo entre dos asteriscos (**). Por ejemplo: (**negrita**).
+
+* Cursiva: para poner en cursiva un texto, basta con encerrarlo entre dos guiones bajos (__). Por ejemplo: (__cursiva__).
+
+* Listas: se pueden crear listas numeradas o no numeradas utilizando números seguidos de un punto o asteriscos, guiones o más almohadillas. Por ejemplo:
+
+1. Elemento de lista numerada (1.)
+2. Otro elemento de lista numerada (2.)
+
+* Elemento de lista no numerada (*)
+- Otro elemento de lista no numerada (-)
+
+- Elemento de lista no numerada (-)
+  - Subelemento de lista no numerada (tabulado -)
+
+
+* Enlaces: se pueden crear enlaces utilizando corchetes y paréntesis. Por ejemplo, ``[enlace](enlace.com)``. Se mostrará como "enlace" y al hacer clic en él se abrirá la dirección enlace.com.
+
+* Imágenes: se pueden insertar imágenes utilizando el símbolo de exclamación (!) seguido de corchetes y paréntesis. Por ejemplo, ![imagen](https://ejemplo.com/imagen.jpg) se mostrará como una imagen con el título "imagen".
