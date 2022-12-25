@@ -124,4 +124,10 @@ CSS es un lenguaje de estilo utilizado para dar formato a las páginas web. Perm
 
 * Selectores de atributo: permiten seleccionar elementos con un determinado atributo. Por ejemplo, ``[type='text']`` seleccionaría todos los elementos con el atributo "type" igual a "text".
 
-Selectores descendientes: permiten seleccionar elementos que descenden de otro elemento. Por ejemplo, ``div leccionaría todos los elementos p (párrafos) que sean descendientes de un elemento div.
+* Selectores descendientes: permiten seleccionar elementos que descenden de otro elemento. Por ejemplo, ``div p`` seleccionaría todos los elementos p (párrafos) que sean descendientes de un elemento div.
+
+* Selectores de hermano: permiten seleccionar elementos que sean hermanos de otro elemento. Por ejemplo, ``h2 + p`` seleccionaría todos los elementos p (párrafos) que sean hermanos inmediatos de un elemento h2.
+
+* Selectores universales: permiten seleccionar todos los elementos de la página. Por ejemplo, ``*`` seleccionaría todos los elementos de la página.
+
+![css](css.png)
