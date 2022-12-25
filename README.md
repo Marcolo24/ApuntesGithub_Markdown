@@ -106,4 +106,4 @@ Markdown es un lenguaje de marcas ligero que se utiliza para dar formato a docum
 
 * Enlaces: se pueden crear enlaces utilizando corchetes y paréntesis. Por ejemplo, ``[enlace](enlace.com)``. Se mostrará como "enlace" y al hacer clic en él se abrirá la dirección enlace.com.
 
-* Imágenes: se pueden insertar imágenes utilizando el símbolo de exclamación (!) seguido de corchetes y paréntesis. Por ejemplo, ![imagen](https://ejemplo.com/imagen.jpg) se mostrará como una imagen con el título "imagen".
+* Imágenes: se pueden insertar imágenes utilizando el símbolo de exclamación (!) seguido de corchetes y paréntesis. Por ejemplo, ``![imagen](imagen.jpg)``. Se mostrará como una imagen con el título "imagen".
