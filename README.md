@@ -108,4 +108,20 @@ Markdown es un lenguaje de marcas ligero que se utiliza para dar formato a docum
 
 * Imágenes: se pueden insertar imágenes utilizando el símbolo de exclamación (!) seguido de corchetes y paréntesis. Por ejemplo, ``![imagen](imagen.jpg)``. Se mostrará como una imagen con el título "imagen".
 
-![markdown](markdown.jpeg)
+![markdown](markdown.jpg)
+
+## CSS
+
+CSS es un lenguaje de estilo utilizado para dar formato a las páginas web. Permite separar el contenido de una página web de su estilo y utiliza selectores y propiedades para seleccionar y modificar elementos HTML. Es esencial para la creación de páginas web atractivas y fáciles de usar.
+
+### Tipos de selectores
+
+* Selectores de etiqueta: permiten seleccionar todos los elementos de una determinada etiqueta. Por ejemplo, ``p`` seleccionaría todos los elementos p (párrafos) de la página.
+
+* Selectores de clase: permiten seleccionar todos los elementos que tengan una determinada clase. Por ejemplo, ``.rojo`` seleccionaría todos los elementos que tengan la clase "rojo".
+
+* Selectores de ID: permiten seleccionar el elemento con un determinado ID. Por ejemplo, ``#principal`` seleccionaría el elemento con el ID "principal".
+
+* Selectores de atributo: permiten seleccionar elementos con un determinado atributo. Por ejemplo, ``[type='text']`` seleccionaría todos los elementos con el atributo "type" igual a "text".
+
+Selectores descendientes: permiten seleccionar elementos que descenden de otro elemento. Por ejemplo, ``div leccionaría todos los elementos p (párrafos) que sean descendientes de un elemento div.
